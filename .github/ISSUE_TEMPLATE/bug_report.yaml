@@ -1,9 +1,9 @@
 name: Bug Report
 description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "security", "question"]
+title: "[Bug]: <title>"
+labels: ["bug"]
 assignees:
-  - octocat
+  - heartfirey
 body:
   - type: markdown
     attributes:
